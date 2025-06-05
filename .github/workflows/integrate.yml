@@ -2,7 +2,7 @@ name: dockerize
 
 on: 
   push:   
-    branches: ["opened"]
+    branches: ["main"]
 
 jobs:
   build:
